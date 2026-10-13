@@ -1,0 +1,15 @@
+{
+  "name": "secure-mern-app-api",
+  "version": "1.0.0",
+  "description": "ICE Task 2 - Structured Backend API with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0"
+  }
+}
